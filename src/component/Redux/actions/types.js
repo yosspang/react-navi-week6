@@ -1,0 +1,1 @@
+export const CHECK_ODDEVEN = 'CHECK_ODDEVEN';

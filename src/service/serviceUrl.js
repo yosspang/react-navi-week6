@@ -1,0 +1,1 @@
+export const URL_API = 'https://semangka-api.herokuapp.com/'
